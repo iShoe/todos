@@ -48,3 +48,13 @@ function AddTodo() {
 export default AddTodo
 ```
 
+# UUID
+```bash
+npm i uuid --save 
+```
+
+```javascript
+import { v1 as uuid } from "uuid";
+
+id: uuid(),
+```
