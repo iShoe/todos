@@ -1,4 +1,4 @@
-# Templates
+# Snippets
 
 ```javascript
 const getStyle = () => {
